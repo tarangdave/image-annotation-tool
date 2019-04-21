@@ -12,3 +12,8 @@
 + Image size should be less than 1MB to get stored
 
 > [Live Demo](http://image.tarangdave.club/)
+
+## Screenshots
+![Start Page](https://github.com/tarangdave/image-annotation-tool/blob/master/images/sc1.png)
+![Annotation](https://github.com/tarangdave/image-annotation-tool/blob/master/images/sc2.png)
+![Upload and annotation in action](https://github.com/tarangdave/image-annotation-tool/blob/master/images/sc3.png)
