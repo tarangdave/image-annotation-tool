@@ -11,8 +11,6 @@
 + The images will be displayed below "Previous Images"
 + Image size should be less than 1MB to get stored
 
-> [Live Demo](http://image.tarangdave.club/)
-
 ## Screenshots
 ![Start Page](https://github.com/tarangdave/image-annotation-tool/blob/master/images/sc1.png)
 ![Annotation](https://github.com/tarangdave/image-annotation-tool/blob/master/images/sc2.png)
